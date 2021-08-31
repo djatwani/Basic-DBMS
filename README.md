@@ -1,2 +1,2 @@
-# Basic-DBMS
-Implementation of a basic DBMS using C++
+# BankManagement
+Implementation of a basic DBMS for handling bank acounts using C++
